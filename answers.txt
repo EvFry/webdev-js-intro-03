@@ -1,0 +1,4 @@
+A number added to a string  stays a string because javascript priotizes strings over arithmitic
+the == can lead to unexpected results because it trys to convert all parts to the same type before evaluating
+|| returns the first truthy value while && returns the first falsy value 
+if you want to determine if a number is even or odd
